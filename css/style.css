@@ -2,4 +2,13 @@
   background-color: rosybrown;
   text-align: center;
   list-style: armenian;
+  font-size: large;
+}
+.container {
+  display: grid;
+}
+#nav {
+  background-color: cadetblue;
+  text-overflow: inherit;
+  margin: auto;
 }
